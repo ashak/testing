@@ -2,7 +2,7 @@
 ## Mountain biking
 | Item | Price | Places to buy
 | --- | --- | --- |
-| Shimano Deore XT 12 Speed Shifter (Band on attachment or 22mm Clamp *NOT I-Spec EV*) SL-M8100-R (or SL-M8100 right hand) | £46 | [Ebay](https://www.ebay.co.uk/sch/i.html?_from=R40&_nkw=sl-m8100-r&_sacat=0&_sop=15&rt=nc&LH_PrefLoc=1), [Bike Tart (on an industrial estate just part Barham, but their website doesn't work well, the best result on ebay is actually this company)](https://www.biketart.com/products/shimano-xt-sl-m8100-12-speed-right-hand-trigger-shifter)
+| Shimano Deore XT 12 Speed Shifter (Band on attachment or 22mm Clamp *NOT I-Spec EV*) SL-M8100-R (or SL-M8100 right hand) | £46 | [Ebay](https://www.ebay.co.uk/sch/i.html?_from=R40&_nkw=sl-m8100-r&_sacat=0&_sop=15&rt=nc&LH_PrefLoc=1), [Bike Tart (on an industrial estate just past Barham, but their website doesn't work well, the best result on ebay is actually this company)](https://www.biketart.com/products/shimano-xt-sl-m8100-12-speed-right-hand-trigger-shifter)
 | Rockshox Recon Silver RL Boost service kit 00.4315.032.628 | £18 | [Amazon](https://www.amazon.co.uk/Rockshox-Federgabel-Service-Recon-Silver/dp/B01N269IQ9) |
 | Rockshox 5WT suspension fluid 1 litre | £17.49 | [Amazon](https://www.amazon.co.uk/gp/product/B0013HOAAU/)
 | Rockshox 15WT suspension fluid 120ml | £17.49 | [Amazon](https://www.amazon.co.uk/gp/product/B0012IM22I/)
