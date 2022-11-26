@@ -10,3 +10,9 @@
 | Syringe (needs to be able to do as low as 2ml, but big enough that 140ml isn't painful)|
 | Hydraulic brake oil & filling kit |
 | External bottom bracket tool|
+
+## Electronics
+| Item | Price | Places to buy |
+| --- | --- | --- |
+| A3 Cutting Mat | 6 | [Amazon but make sure its £6 not £20](https://www.amazon.co.uk/ANSIO-Double-Healing-Cutting-Imperial/dp/B00RO1CD9O/) |
+| Heat proof silicone soldering mat | 8 | [Ebay](https://www.ebay.co.uk/itm/324448282155), [Amazon](https://www.amazon.co.uk/Inntek-Soldering-Resistant-Silicone-Eletronic/dp/B087T54VY6/) |
