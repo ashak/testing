@@ -9,6 +9,17 @@
 | Fingerless Gloves |
 | Mudguards |
 
-## Electronics
+## Books
+| Item |
+| --- |
+| Star Trek Titan - Sword of Damocles |
+| Star Trek Titan - Over a Torrent Sea |
+| Star Trek Titan - Synthesis |
+| Star Trek Titan - Fallen Gods |
+| Star Trek Titan - Sight Unseen |
+| Star Trek Titan - Fortune of War |
+
+## Other
 | Item | Price | Places to buy |
 | --- | --- | --- |
+| 1st playing cards by Chris Ramsey, preferably 1 red deck and 1 blue deck | £18 per deck | [The Card Inn](https://thecardinn.co.uk/collections/chris-ramsay/products/1st-playing-cards-x-bicycle-chris-ramsay) |
