@@ -3,7 +3,7 @@
 | Item | Price | Places to buy |
 | --- | --- | --- |
 | Humbrol 81 Acrylic Matt Pale Yellow paint | £1.79-2.69 | []() |
-| Humbrol 83 Acrylic Matt Ochre x2 paint | £1.79-2.69 | []() |
+| 2x Humbrol 83 Acrylic Matt Ochre paint | £1.79-2.69 | []() |
 
 ## Books
 | Item |
