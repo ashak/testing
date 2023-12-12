@@ -24,3 +24,4 @@
 | Item | Price | Places to buy |
 | --- | --- | --- |
 | 1st playing cards by Chris Ramsey, preferably 1 red deck and 1 blue deck | £18 per deck | [The Card Inn](https://thecardinn.co.uk/collections/chris-ramsay/products/1st-playing-cards-x-bicycle-chris-ramsay) |
+| Wire wheels for a rotary tool (like a dremel) | £16 | [Amazon](https://www.amazon.co.uk/Stainless-Cleaning-Corrosion-Polishing-Compatible/dp/B094VPS3KQ) |
