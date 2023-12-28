@@ -8,14 +8,10 @@
 ## Books
 | Item |
 | --- |
-| Star Trek Titan - Sword of Damocles |
-| Star Trek Titan - Over a Torrent Sea |
 | Star Trek A Singular Destiny |
-| Star Trek Titan - Fallen Gods |
 | Star Trek The Next Generation: Takedown |
 | Star Trek Prey - The Jackal's Trick |
 | Star Trek Prey - The Hall of Heroes |
-| Star Trek Titan - Fortune of War |
 | Star Trek The Next Generation: Collateral Damage |
 | Star Trek Coda: Moments Asunder |
 | Star Trek Deep Space Nine - Prophecy and Change |
