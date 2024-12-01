@@ -15,3 +15,4 @@
 | Item | Price | Places to buy |
 | --- | --- | --- |
 | Wire wheels for a rotary tool (like a dremel) | £16 | [Amazon](https://www.amazon.co.uk/Stainless-Cleaning-Corrosion-Polishing-Compatible/dp/B094VPS3KQ) |
+| SL/PZ2 VDE Insulated screwdriver (the tip is half pozidrive PS2, half slotted, used one circuit breakers) ||[Amazon](https://www.amazon.co.uk/Draper-02256-Ergo-Extra-Screwdriver/dp/B085TX7K7S)|
