@@ -1,4 +1,7 @@
 # Wishlist
+## Mountain biking
+| Item | Price | Places to buy |
+| Muc-Off No Puncture Hassle MTB Tubeless Sealant - 1L | £20 | [Merlins cycles](https://www.merlincycles.com/muc-off-no-puncture-hassle-mtb-tubeless-sealant-1l-113265.html) |
 
 ## Books
 | Item |
