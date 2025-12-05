@@ -1,8 +1,19 @@
 # Wishlist
+
 ## Mountain biking
 | Item | Price | Places to buy |
 | --- | --- | --- |
-| Muc-Off No Puncture Hassle MTB Tubeless Sealant - 1L | £20 | [Merlins cycles](https://www.merlincycles.com/muc-off-no-puncture-hassle-mtb-tubeless-sealant-1l-113265.html) |
+|Marzocchi Z2 Fork Rail Damper Seal Kit 803-01-430|£19||
+|Fox 34 Wiper Seal / Dust Seal Service Kit 803-00-945 | £37||
+|Fox Oil - 20 WT Gold - size: 250ml - 025-03-010 |||
+|Fox 5 WT Teflon Infused Suspension Fluid, size: 1 US Quart - 025-03-023 |||
+
+## Model railway
+| Item | Price | Places to buy |
+| --- | --- | --- |
+| BARTSHARP Airbrush Compressor AC02 | £82.99 | [BARTSHOP](https://www.bartsharpairbrush.co.uk/product/airbrush-compressor-ac02-bartsharp-airbrush/) |
+| Humbrol 81 Acrylic Matt Pale Yellow paint | £1.79-2.69 | []() |
+| 2x Humbrol 83 Acrylic Matt Ochre paint | £1.79-2.69 | []() |
 
 ## Books
 | Item |
@@ -18,5 +29,4 @@
 ## Other
 | Item | Price | Places to buy |
 | --- | --- | --- |
-| Wire wheels for a rotary tool (like a dremel) | £16 | [Amazon](https://www.amazon.co.uk/Stainless-Cleaning-Corrosion-Polishing-Compatible/dp/B094VPS3KQ) |
-| SL/PZ2 VDE Insulated screwdriver (the tip is half pozidrive PS2, half slotted, used for tightening the screws on circuit breakers) ||[Amazon](https://www.amazon.co.uk/Draper-02256-Ergo-Extra-Screwdriver/dp/B085TX7K7S)|
+| drillblock | | |
